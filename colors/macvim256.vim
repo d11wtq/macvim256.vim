@@ -110,7 +110,7 @@ fu! s:MacVimThemeApply(palette)
   "" dark background colors
   let darkcolors = {
         \ 'NONE':             'NONE',
-        \ 'black':            241,
+        \ 'black':            242,
         \ 'clean-white':      233,
         \ 'merlot':           93,
         \ 'deep-red':         124,
@@ -118,7 +118,7 @@ fu! s:MacVimThemeApply(palette)
         \ 'clean-blue':       25,
         \ 'light-blue':       26,
         \ 'pale-blue':        189,
-        \ 'bright-blue':      17,
+        \ 'bright-blue':      100,
         \ 'pure-blue':        21,
         \ 'grey-blue':        24,
         \ 'pale-green':       83,
